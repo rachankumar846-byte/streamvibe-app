@@ -127,6 +127,3 @@ streamvibe/
 - Email: rachankumar846@gmail.com
 - LinkedIn: [Rachan Kumar](https://linkedin.com/in/rachan-kumar-0158392b7)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
