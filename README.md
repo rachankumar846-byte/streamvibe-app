@@ -103,7 +103,7 @@ Backend API: https://streamvibe-server.onrender.com
 
 ## 📂 Project Structure
 
-\```
+```
 streamvibe/
 ├── StreamVibe/          # React Native Frontend
 │   ├── src/
@@ -118,7 +118,7 @@ streamvibe/
     ├── routes/          # API Routes
     ├── middleware/       # Auth Middleware
     └── server.js
-\```
+```
 
 ## 👨‍💻 Author
 
