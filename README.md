@@ -93,9 +93,9 @@ cd StreamVibe
 npm start
 \```
 
-## 📸 Screenshots
+## 📹 Demo Video
 
-<!-- Add your screenshots here -->
+[Watch Demo](https://www.loom.com/share/fed0efcfd7e14410a0d3740577556029)
 
 ## 🌐 Live Backend
 
